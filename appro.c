@@ -53,7 +53,7 @@ static void f(int s)
         }
     }
 
-    printf("%d\t%d\t%.2f\n", s, count, (count - v) / v);
+    printf("%d\t%d\t%.2f%%\n", s, count, (count - v) / v * 100);
 }
 
 int main(int argc, char **argv)
