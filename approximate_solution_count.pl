@@ -3,7 +3,7 @@ use v5.10;
 use warnings;
 use strict;
 
-my $s = 100000;
+my $s = 1000000;
 
 
 for (my $i = 10; $i <= $s; $i += 2)

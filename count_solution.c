@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define N 100000
+#define N 1000000
 
 char p[N];
 
